@@ -11,8 +11,8 @@ This repository contains a Laravel API backend part project exam.
 
 ### Clone the repository:
 ```
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/lanceballicud/ballicud_BE_exam_laravelAPI
+cd ballicud_BE_exam_laravelAPI
 ```
 ### Install dependencies:
 ```
