@@ -1,0 +1,9 @@
+Laravel Sanctum
+ - php artisan install:api
+
+ - php artisan make:model Product -a --api
+
+ - postman we need to accept and application json to use postman
+
+ php -S localhost:8000 -t public
+composer require fruitcake/laravel-cors
